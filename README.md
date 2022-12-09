@@ -1,2 +1,15 @@
-# mini-project-
-a mini project on online fashion store managment system is made using CSS,javascript,Php,HTML
+# Fashion-Store-
+Online Fashion Store Management System
+
+Available Function
+
+ * Customer Login / Register
+ * Purchase
+ * Order Tracking
+ * Contact
+
+ * Order Dispatch
+ * Customer Management
+ * Product management
+ * Brand management
+ * User Management
